@@ -1,3 +1,11 @@
 .DS_Store
 __pycache__/modelset.cpython-39.pyc
 __pycache__/utility_funcs.cpython-39.pyc
+feature_importance_high_prob.png
+feature_map.txt
+feature_importance_low_prob.png
+xgb_chd_cm.png
+xgb_chd_model.png
+xgb_chd_roc.png
+xgb_tree5.png
+xgb_tree.png
